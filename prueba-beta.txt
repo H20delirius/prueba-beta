@@ -1,1 +1,1 @@
-print("me comi un gato")
+print("yo me puse una zapatilla")
